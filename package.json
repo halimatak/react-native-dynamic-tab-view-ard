@@ -1,0 +1,32 @@
+{
+  "name": "react-native-dynamic-tab-view-ard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halimatak/react-native-dynamic-tab-view-ard.git"
+  },
+  "keywords": [
+    "dynamic-tabs"
+  ],
+  "author": "Halim ATAK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halimatak/react-native-dynamic-tab-view-ard/issues"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "homepage": "https://github.com/halimatak/react-native-dynamic-tab-view-ard#readme"
+}
